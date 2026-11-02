@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="assets/header_banner.svg" alt="Đào Văn Phong Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ngphong01/ngphong01/main/assets/header_banner.svg" alt="Đào Văn Phong Header Banner" width="100%" />
 
   <br/><br/>
 
@@ -109,12 +109,12 @@ Những dự án tiêu biểu thể hiện năng lực kiến trúc phần mềm
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/ngphong01">
-          <img src="https://github-readme-stats.vercel.app/api?username=ngphong01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="Phong's GitHub Stats" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ngphong01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="Phong's GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/ngphong01">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngphong01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ngphong01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Những dự án tiêu biểu thể hiện năng lực kiến trúc phần mềm
 
   <!-- Streak Stats -->
   <a href="https://github.com/ngphong01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngphong01&theme=tokyonight&hide_border=true&background=0a0f1d&stroke=1e293b&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" width="85%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ngphong01&theme=tokyonight&hide_border=true&background=0a0f1d&stroke=1e293b&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" width="85%" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -166,3 +166,4 @@ Những dự án tiêu biểu thể hiện năng lực kiến trúc phần mềm
 <p align="center">
   <sub>⭐️ <i>Cảm ơn bạn đã ghé thăm trang cá nhân của mình! Hãy kết nối và cùng nhau xây dựng những sản phẩm công nghệ giá trị.</i> ⭐️</sub>
 </p>
+
