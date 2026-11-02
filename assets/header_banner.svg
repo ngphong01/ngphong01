@@ -1,113 +1,190 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 260" width="100%" height="100%">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0f1d"/>
-      <stop offset="50%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#050811"/>
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="45%" stop-color="#0b1120"/>
+      <stop offset="85%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#060913"/>
     </linearGradient>
 
     <!-- Accent Gradients -->
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#f8fafc"/>
+      <stop offset="70%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <linearGradient id="ytGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0033"/>
+      <stop offset="100%" stop-color="#ff4b6b"/>
+    </linearGradient>
+
+    <linearGradient id="dataGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#34d399"/>
     </linearGradient>
 
-    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Chart Glow Area Gradient -->
+    <linearGradient id="chartAreaGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#818cf8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Ambient Glows -->
+    <radialGradient id="blueGlow" cx="15%" cy="30%" r="50%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
-    </linearGradient>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
 
-    <!-- Grid Pattern -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.45"/>
-      <circle cx="30" cy="0" r="1.2" fill="#38bdf8" fill-opacity="0.25"/>
+    <radialGradient id="redGlow" cx="85%" cy="35%" r="50%">
+      <stop offset="0%" stop-color="#ff0033" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ff0033" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Technical Grid Pattern -->
+    <pattern id="techGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.65" stroke-opacity="0.4"/>
+      <circle cx="32" cy="0" r="1" fill="#38bdf8" fill-opacity="0.2"/>
     </pattern>
   </defs>
 
   <style>
-    .title-text {
+    .name-brand {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-      font-weight: 800;
-      font-size: 40px;
+      font-weight: 900;
+      font-size: 46px;
       letter-spacing: -0.5px;
     }
-    .sub-text {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Consolas, monospace;
+    .role-badge {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', Consolas, monospace;
+      font-weight: 700;
+      font-size: 14.5px;
+      letter-spacing: 1.5px;
+    }
+    .tagline-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-weight: 500;
       font-size: 15px;
-      letter-spacing: 0.5px;
-      fill: #94a3b8;
+      letter-spacing: 0.2px;
+      fill: #cbd5e1;
     }
-    .badge-label {
+    .meta-code {
+      font-family: 'JetBrains Mono', Consolas, Monaco, monospace;
+      font-size: 11.5px;
+      letter-spacing: 0.8px;
+    }
+    .pill-label {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       font-weight: 600;
       font-size: 12px;
     }
-    .code-accent {
-      font-family: 'JetBrains Mono', Consolas, Monaco, monospace;
-      font-size: 13px;
-      fill: #38bdf8;
-    }
   </style>
 
-  <!-- Base Card -->
-  <rect width="900" height="240" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
-  <rect width="900" height="240" rx="16" fill="url(#grid)"/>
+  <!-- Background Base -->
+  <rect width="940" height="260" rx="18" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.2"/>
+  <rect width="940" height="260" rx="18" fill="url(#techGrid)"/>
 
-  <!-- Ambient Glow Circles -->
-  <circle cx="120" cy="70" r="140" fill="url(#glowGrad)"/>
-  <circle cx="820" cy="180" r="130" fill="#c084fc" fill-opacity="0.08"/>
+  <!-- Radial Atmosphere Glows -->
+  <circle cx="150" cy="80" r="220" fill="url(#blueGlow)"/>
+  <circle cx="780" cy="110" r="200" fill="url(#redGlow)"/>
 
-  <!-- Terminal Dot Accent Bar -->
-  <rect x="42" y="28" width="10" height="10" rx="5" fill="#ef4444" opacity="0.8"/>
-  <rect x="58" y="28" width="10" height="10" rx="5" fill="#f59e0b" opacity="0.8"/>
-  <rect x="74" y="28" width="10" height="10" rx="5" fill="#10b981" opacity="0.8"/>
-  <text x="100" y="37" class="code-accent" opacity="0.85">~/portfolio/ngphong01 (main)</text>
+  <!-- Top Status Bar -->
+  <g transform="translate(42, 26)">
+    <!-- Terminal Indicators -->
+    <circle cx="6" cy="6" r="4.5" fill="#ef4444" opacity="0.85"/>
+    <circle cx="22" cy="6" r="4.5" fill="#f59e0b" opacity="0.85"/>
+    <circle cx="38" cy="6" r="4.5" fill="#10b981" opacity="0.85"/>
 
-  <!-- Title & Identity -->
-  <text x="42" y="98" fill="#f8fafc" class="title-text">
-    ĐÀO VĂN PHONG <tspan fill="url(#textGrad)">• ngphong01</tspan>
-  </text>
-
-  <!-- Subtitle / Roles -->
-  <text x="44" y="132" class="sub-text">
-    SOFTWARE DEVELOPER <tspan fill="#38bdf8">|</tspan> DATA ANALYST <tspan fill="#818cf8">|</tspan> SYSTEMS &amp; WEB ARCHITECTURE
-  </text>
-
-  <!-- Micro-quote / Mission statement -->
-  <text x="44" y="160" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13px">
-    Building production-grade tools, modern fullstack platforms, and data-driven insights.
-  </text>
-
-  <!-- Quick Badges (Pills) -->
-  <!-- Pill 1: PTIT -->
-  <g transform="translate(44, 185)">
-    <rect width="185" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1"/>
-    <circle cx="14" cy="14" r="5" fill="#ef4444"/>
-    <text x="26" y="18" fill="#e2e8f0" class="badge-label">🎓 PTIT Student (Hanoi)</text>
+    <!-- Breadcrumb Label -->
+    <rect x="58" y="-4" width="232" height="20" rx="10" fill="#0f172a" stroke="#334155" stroke-width="0.8"/>
+    <circle cx="69" cy="6" r="3" fill="#38bdf8"/>
+    <text x="78" y="10" fill="#94a3b8" class="meta-code">DA &amp; CREATOR STUDIO • PTIT</text>
   </g>
 
-  <!-- Pill 2: Portfolio Web -->
-  <g transform="translate(240, 185)">
-    <rect width="195" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1"/>
-    <circle cx="14" cy="14" r="5" fill="#38bdf8"/>
-    <text x="26" y="18" fill="#e2e8f0" class="badge-label">🌐 daophong.id.vn</text>
+  <!-- Left: Main Identity & Content -->
+  <!-- Name: PHONG -->
+  <text x="42" y="98" fill="url(#titleGrad)" class="name-brand">
+    PHONG
+  </text>
+
+  <!-- Role: Data Analyst | YouTube Creator -->
+  <g transform="translate(44, 126)">
+    <text y="0" class="role-badge">
+      <tspan fill="#38bdf8">DATA ANALYST</tspan>
+      <tspan fill="#64748b" dx="8" font-weight="400">|</tspan>
+      <tspan fill="#ff4b6b" dx="8">YOUTUBE CREATOR</tspan>
+    </text>
   </g>
 
-  <!-- Pill 3: Focus Area -->
-  <g transform="translate(446, 185)">
-    <rect width="200" height="28" rx="14" fill="#0f172a" stroke="#334155" stroke-width="1"/>
-    <circle cx="14" cy="14" r="5" fill="#10b981"/>
-    <text x="26" y="18" fill="#e2e8f0" class="badge-label">🚀 Python • React • SQL</text>
+  <!-- Tagline: Turning data into insights & ideas into videos -->
+  <text x="44" y="156" class="tagline-text">
+    Turning data into insights &amp; ideas into videos.
+  </text>
+
+  <!-- Bottom Interactive Pills -->
+  <!-- Pill 1: PTIT Student -->
+  <g transform="translate(44, 192)">
+    <rect width="188" height="30" rx="15" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <circle cx="15" cy="15" r="4.5" fill="#ef4444"/>
+    <text x="28" y="19.5" fill="#e2e8f0" class="pill-label">🎓 PTIT (Information Tech)</text>
   </g>
 
-  <!-- Decorative Corner Binary / Tech Matrix -->
-  <g fill="#334155" font-family="monospace" font-size="10px" opacity="0.6">
-    <text x="780" y="60">01000100</text>
-    <text x="780" y="75">01010110</text>
-    <text x="780" y="90">01010000</text>
+  <!-- Pill 2: Stack Highlights -->
+  <g transform="translate(242, 192)">
+    <rect width="194" height="30" rx="15" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <circle cx="15" cy="15" r="4.5" fill="#38bdf8"/>
+    <text x="28" y="19.5" fill="#e2e8f0" class="pill-label">📊 SQL • Python • Power BI</text>
+  </g>
+
+  <!-- Pill 3: YouTube Synergy -->
+  <g transform="translate(446, 192)">
+    <rect width="186" height="30" rx="15" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <circle cx="15" cy="15" r="4.5" fill="#ff0033"/>
+    <text x="28" y="19.5" fill="#e2e8f0" class="pill-label">🎬 YouTube &amp; Tech Journey</text>
+  </g>
+
+  <!-- Pill 4: Portfolio URL -->
+  <g transform="translate(642, 192)">
+    <rect width="168" height="30" rx="15" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <circle cx="15" cy="15" r="4.5" fill="#10b981"/>
+    <text x="28" y="19.5" fill="#e2e8f0" class="pill-label">🌐 daophong.id.vn</text>
+  </g>
+
+  <!-- Right: Glassmorphic Data Analytics & Video Telemetry Graphic -->
+  <g transform="translate(680, 26)">
+    <!-- Container Panel -->
+    <rect width="216" height="142" rx="14" fill="#0a0f1d" fill-opacity="0.75" stroke="#334155" stroke-width="1"/>
+    
+    <!-- Header of mini panel -->
+    <rect x="0" y="0" width="216" height="26" rx="14" fill="#0f172a" stroke="#334155" stroke-width="0.8"/>
+    <circle cx="14" cy="13" r="3" fill="#ff0033"/>
+    <text x="24" y="17" fill="#cbd5e1" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5px" font-weight="600">YOUTUBE ANALYTICS</text>
+    <text x="172" y="17" fill="#34d399" font-family="'JetBrains Mono', Consolas, monospace" font-size="10px" font-weight="700">+142%</text>
+
+    <!-- Grid lines inside graph -->
+    <line x1="16" y1="56" x2="200" y2="56" stroke="#1e293b" stroke-width="0.8" stroke-dasharray="3,3"/>
+    <line x1="16" y1="84" x2="200" y2="84" stroke="#1e293b" stroke-width="0.8" stroke-dasharray="3,3"/>
+    <line x1="16" y1="112" x2="200" y2="112" stroke="#1e293b" stroke-width="0.8" stroke-dasharray="3,3"/>
+
+    <!-- Area Chart (Retention & Growth) -->
+    <path d="M 16 118 Q 50 102 78 88 T 130 64 T 170 54 T 200 40 L 200 126 L 16 126 Z" fill="url(#chartAreaGrad)"/>
+    <path d="M 16 118 Q 50 102 78 88 T 130 64 T 170 54 T 200 40" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Milestone Dots -->
+    <circle cx="78" cy="88" r="3.5" fill="#818cf8" stroke="#0a0f1d" stroke-width="1.5"/>
+    <circle cx="130" cy="64" r="3.5" fill="#38bdf8" stroke="#0a0f1d" stroke-width="1.5"/>
+    <circle cx="200" cy="40" r="4" fill="#34d399" stroke="#0a0f1d" stroke-width="1.5"/>
+
+    <!-- Mini Floating YouTube Play Indicator -->
+    <g transform="translate(162, 94)">
+      <rect width="38" height="24" rx="7" fill="#ff0033" opacity="0.9"/>
+      <polygon points="14,6 14,18 26,12" fill="#ffffff"/>
+    </g>
+    
+    <!-- Metric label -->
+    <text x="18" y="134" fill="#64748b" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5px">RETENTION • CTR • ROI</text>
   </g>
 </svg>
-
