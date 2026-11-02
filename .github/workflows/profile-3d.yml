@@ -33,3 +33,4 @@ jobs:
           git add -A profile-3d-contrib/
           git commit -m "chore(3d-contrib): update 3d contribution calendar" || exit 0
           git push
+

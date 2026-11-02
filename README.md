@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/ngphong01/ngphong01/main/assets/header_banner.svg" alt="PHONG • Data Analyst | YouTube Creator" width="100%" />
+  <img src="https://raw.githubusercontent.com/ngphong01/ngphong01/main/assets/header_banner.svg" alt="PHONG • Data Analyst | Tool Developer | YouTube Creator" width="100%" />
 
   <br/><br/>
 
   <!-- Dynamic Typing SVG Headline -->
   <a href="https://github.com/ngphong01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+Business+Intelligence+%F0%9F%93%8A;YouTube+Content+Creator+%F0%9F%8E%AC;Turning+Data+into+Insights+%26+Ideas+into+Videos+%F0%9F%92%A1;Information+Technology+%E2%80%A2+PTIT+Student+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Analyst+Intern+%26+Business+Intelligence+%F0%9F%93%8A;Practical+Tools+%26+Automation+Developer+%E2%9A%99%EF%B8%8F;YouTube+Creator+in+Progress+%E2%80%A2+Learning+in+Public+%F0%9F%8E%AC;Information+Technology+%E2%80%A2+PTIT+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,8 +15,8 @@
   <!-- Status Badges -->
   <p align="center">
     <a href="https://www.daophong.id.vn/"><img src="https://img.shields.io/badge/Portfolio-daophong.id.vn-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.youtube.com/@ngphong01"><img src="https://img.shields.io/badge/YouTube-Content_Creator-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_BI-10b981?style=for-the-badge&logo=powerbi&logoColor=white" alt="Focus" />
+    <a href="https://www.youtube.com/@ngphong01"><img src="https://img.shields.io/badge/YouTube-Learning_Log-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://github.com/ngphong01"><img src="https://img.shields.io/badge/GitHub-ngphong01-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Education-PTIT_Hanoi-ef4444?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
   </p>
 
@@ -26,106 +26,106 @@
 
 ### 👤 About Me
 
-Xin chào! Mình là **Đào Văn Phong**, sinh viên chuyên ngành Công nghệ Thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**, Hà Nội.
+Xin chào! Mình là **Đào Văn Phong**, sinh viên ngành Công nghệ Thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**, Hà Nội.
 
-Hồ sơ cá nhân của mình xây dựng xoay quanh đúng 2 trục tương hỗ: **Data Analyst** và **YouTube Content Creator** (Mô hình *"Data x Creator"*):
+Mình là một **người đang học việc và thực chiến (*Continuous Learner & Builder*)**, phát triển bản thân đồng thời trên 3 mảng bổ trợ cho nhau:
 
-- 📊 **Data Analyst Orientation:** Mình tập trung vào khai phá dữ liệu thô, phân tích số liệu kinh doanh, xây dựng mô hình dự báo và thiết kế dashboard trực quan hóa giúp chuyển đổi dữ liệu thành các quyết định có thể hành động được (*Actionable Insights*).
-- 🎬 **YouTube Content Creator:** Mình sản xuất nội dung video về tư duy công nghệ, phân tích dữ liệu thực chiến và hành trình học tập. Thay vì chỉ xem số liệu một chiều, mình biến chính dữ liệu vận hành kênh YouTube (CTR, Watch Time, Retention Curves) thành các bài toán phân tích thực tế.
-- 🎓 **Học vấn:** Sinh viên CNTT • Học viện Công nghệ Bưu chính Viễn thông (PTIT).
-- 💡 **Triết lý làm việc:** *“Số liệu chỉ thực sự có giá trị khi nó được kể lại bằng một câu chuyện rõ ràng và giải quyết đúng bài toán của người xem hoặc doanh nghiệp.”*
-- 🌐 **Portfolio & Blog:** [daophong.id.vn](https://www.daophong.id.vn/)
+- 📊 **Data Analyst (Đang học việc & rèn luyện):** Mình tập trung vào khai phá dữ liệu thực tế, thành thạo SQL, Python (Pandas/NumPy), Microsoft Excel nâng cao và Power BI để biến dữ liệu thô thành các báo cáo trực quan (*Actionable Insights*).
+- ⚙️ **Tools & Automation (Tự tay xây dựng công cụ):** Mình thích tự viết các công cụ giải quyết bài toán thật: từ tool tối ưu hệ thống ổ đĩa (`winvitals`), tool tự động hóa cấu hình (`Device_Changer`), đến nền tảng web du lịch (`TravelHub`) và thiết bị IoT (`SmartHelmet`).
+- 🎬 **YouTube & Learning in Public:** Mình đang xây dựng kênh YouTube để ghi lại hành trình học việc. Thay vì chỉ xem số liệu một chiều, mình dùng chính tư duy Data Analyst để phân tích số liệu kênh (CTR, Watch Time, Retention Curves) và làm video chia sẻ kinh nghiệm tự học, viết tool cho cộng đồng.
+- 💡 **Phương châm:** *“Học bằng cách tự tay làm ra sản phẩm có ích, giải quyết bài toán thực tế và chia sẻ lại hành trình đó.”*
 
 ---
 
-### 🛠️ Data Analyst Stack
-
-Các công cụ và năng lực cốt lõi phục vụ phân tích dữ liệu chuyên nghiệp:
+### 🛠️ Core Stack & Capabilities
 
 <table>
   <tr>
-    <td width="26%" align="center"><b>Truy vấn & Cơ sở dữ liệu</b></td>
+    <td width="26%" align="center"><b>Phân tích Dữ liệu (DA & BI)</b></td>
     <td>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Window_Functions-02569B?style=flat-square&logo=databricks&logoColor=white" alt="Window Functions" />
-      <img src="https://img.shields.io/badge/CTEs_%26_Subqueries-1E293B?style=flat-square&logo=sqlite&logoColor=white" alt="CTEs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Xử lý & Lập trình Dữ liệu</b></td>
-    <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Data_Cleaning-059669?style=flat-square&logo=scipy&logoColor=white" alt="Data Cleaning" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Trực quan hóa & Báo cáo BI</b></td>
+    <td align="center"><b>Công cụ & Tự động hóa (Tools)</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/DAX-EAB308?style=flat-square&logo=dax&logoColor=black" alt="DAX" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Internals" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tư duy & Kỹ năng Nghiệp vụ</b></td>
+    <td align="center"><b>Tư duy & Nội dung (Content & Mindset)</b></td>
     <td>
       <img src="https://img.shields.io/badge/Business_Intelligence-0EA5E9?style=flat-square&logo=google-analytics&logoColor=white" alt="BI" />
       <img src="https://img.shields.io/badge/Data_Storytelling-8B5CF6?style=flat-square&logo=airplayvideo&logoColor=white" alt="Storytelling" />
-      <img src="https://img.shields.io/badge/A%2FB_Testing-EC4899?style=flat-square&logo=target&logoColor=white" alt="A/B Testing" />
-      <img src="https://img.shields.io/badge/KPI_Modeling-10B981?style=flat-square&logo=speedtest&logoColor=white" alt="KPI" />
+      <img src="https://img.shields.io/badge/YouTube_Analytics-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Analytics" />
+      <img src="https://img.shields.io/badge/Building_in_Public-10B981?style=flat-square&logo=hashnode&logoColor=white" alt="Building in Public" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Featured Projects
+### 🚀 Featured Projects on GitHub
 
-Những dự án thực chiến chứng minh năng lực phân tích dữ liệu kinh doanh và khai thác telemetry nội dung:
+Toàn bộ các dự án thực tế đang được lưu trữ mã nguồn trực tiếp trên GitHub của mình:
 
-| Dự Án | Công Nghệ / Nền Tảng | Trọng Tâm Phân Tích & Giá Trị Đạt Được |
+| Dự Án | Lĩnh Vực / Công Nghệ | Mô Tả Thực Chiến |
 |:---|:---|:---|
-| 🎬 [**YouTube Analytics Dashboard**](https://github.com/ngphong01) | `Python` • `YouTube API v3` • `Power BI` • `Pandas` | **Nối kết Data x Creator:** Tự động thu thập dữ liệu chỉ số video qua API, phân tích biểu đồ tỷ lệ giữ chân (*Audience Retention Curve*), hệ số tương quan giữa CTR và Views, dự báo tốc độ tăng trưởng Subscriber. |
-| 🛒 [**E-Commerce Customer Segmentation**](https://github.com/ngphong01) | `Python` • `Pandas` • `RFM Model` • `K-Means` | **Phân khúc khách hàng đa chiều:** Áp dụng mô hình Recency - Frequency - Monetary (RFM) và thuật toán phân cụm K-Means nhằm nhận diện nhóm khách hàng giá trị cao (VIP) và tối ưu hóa chi phí Marketing. |
-| 📊 [**Global Sales & Revenue BI Dashboard**](https://github.com/ngphong01) | `Power BI` • `DAX` • `Excel Data Model` • `ETL` | **Báo cáo kinh doanh tương tác cao cấp:** Thiết kế bảng điều khiển bán hàng đa khu vực, tính toán tỷ suất lợi nhuận ròng, phân tích biến động doanh thu theo quý (QoQ) và đo lường hiệu quả danh mục hàng hóa. |
-| 🗄️ [**Advanced SQL Business Performance Study**](https://github.com/ngphong01) | `PostgreSQL` • `Window Functions` • `CTEs` | **Nghiên cứu tình huống kinh doanh phức tạp:** Khảo sát tỷ lệ giữ chân theo nhóm thuần tập (*Cohort Retention Analysis*), xác định điểm rơi chuyển đổi của khách hàng (*Funnel Drop-off*) và tính toán dòng tiền ròng. |
-| 🎓 [**Academic Performance & Student GPA Analytics**](https://github.com/ngphong01) | `Python` • `Pandas` • `Matplotlib` • `EDA` | **Phân tích số liệu học thuật:** Khảo sát phân phối phổ điểm chuẩn GPA, đánh giá sự tương quan giữa khối ngành đào tạo, tín chỉ tích lũy và kết quả tốt nghiệp của sinh viên. |
+| 🏨 [**TravelHub**](https://github.com/ngphong01/TravelHub) | `TypeScript` • `React` • `Node.js` • `REST API` | **Nền tảng thương mại điện tử du lịch & đặt phòng trực tuyến:** Thiết kế luồng dữ liệu khách sạn, xử lý tìm kiếm phòng, tích hợp giao diện người dùng hiện đại và hệ thống API RESTful. |
+| 🛡️ [**winvitals**](https://github.com/ngphong01/winvitals) | `Python` • `C++` • `Windows Optimization` | **Windows Health Manager & Developer Disk Manager:** Công cụ quản trị và tối ưu hóa ổ đĩa chuyên sâu, giám sát trạng thái phần cứng và dọn dẹp hệ thống cho lập trình viên. |
+| ⚙️ [**Device_Changer**](https://github.com/ngphong01/Device_Changer) | `Python` • `System Automation` | **Bộ công cụ phân tích cấu hình & tự động hóa:** Quản trị tham số thiết bị, tự động hóa các kịch bản kiểm thử và tương tác hệ thống. |
+| 🏍️ [**SmartHelmet**](https://github.com/ngphong01/SmartHelmet) | `Python` • `IoT` • `Sensor Analytics` | **Hệ thống mũ bảo hiểm thông minh:** Phân tích dữ liệu cảm biến thời gian thực, tự động phát hiện va chạm khẩn cấp và truyền tọa độ định vị cảnh báo. |
+| 🔔 [**FIX_NOTIFICATION_XIAOMI**](https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI) | `Batch Script` • `OS Tweaks` | **Tiện ích tối ưu hóa thông báo Android:** Tinh chỉnh các tham số quản lý tiến trình ngầm (background processes) giúp hệ thống nhận thông báo tức thì, không bị trễ. |
 
 ---
 
-### 🎬 YouTube • Data x Creator
+### 📊 Data Analytics Projects in Progress (Hành Trình Học Việc)
 
-Không chỉ làm sáng tạo nội dung đơn thuần, mình ứng dụng trực tiếp tư duy Data Analyst vào quy trình xây dựng kênh YouTube:
+Những bài toán phân tích dữ liệu kinh doanh và telemetry nội dung mình đang thực hiện:
+
+* 🎬 **YouTube Analytics & Audience Retention Engine:** Kéo dữ liệu qua YouTube API v3, phân tích biểu đồ tỷ lệ giữ chân người xem (*Audience Retention Curve*), độ nhạy của CTR ảnh hưởng đến số lượt xem và mô hình hóa tăng trưởng người đăng ký.
+* 🛒 **E-Commerce Customer Segmentation (RFM Analysis):** Áp dụng mô hình Recency - Frequency - Monetary và thuật toán phân cụm K-Means bằng Python Pandas để phân nhóm khách hàng mục tiêu.
+* 🎓 **PTIT Student Academic Performance Analytics:** Phân tích dữ liệu học tập sinh viên, phân phối phổ điểm GPA và khảo sát các yếu tố ảnh hưởng đến kết quả tốt nghiệp.
+
+---
+
+### 🎬 YouTube • Learning in Public
+
+Mình xây dựng kênh YouTube theo định hướng **“Learning in Public”** — nơi một sinh viên CNTT / Data Analyst học việc chia sẻ lại trải nghiệm thực tế:
 
 ```text
 ┌────────────────────────────────────────────────────────┐
 │                        YOUTUBE                         │
 │           Data • Technology • Learning Journey         │
 ├────────────────────────────────────────────────────────┤
-│  ▶  Video Content: Chia sẻ kiến thức, công cụ & tư duy │
-│  📊 Channel Analytics: Nghiên cứu dữ liệu đằng sau số view│
-│  🎥 Behind the Data: A/B Testing tiêu đề, thumbnail    │
+│  ▶  Kinh nghiệm học việc: Chia sẻ cách tự học SQL, DA  │
+│  ⚙️  Quá trình viết Tool: Hướng dẫn code các tiện ích  │
+│  📊 Phân tích số liệu kênh: Đằng sau các con số View   │
 └────────────────────────────────────────────────────────┘
 ```
 
-#### 3 Trụ Cột Nội Dung Chính:
-1. **Dữ liệu thực chiến (Data in Action):** Hướng dẫn ứng dụng Excel, SQL, Python và Power BI vào giải quyết các bài toán kinh doanh cụ thể.
-2. **Công nghệ & Tự học (Tech & Learning):** Đúc kết kinh nghiệm học tập tại PTIT, mẹo sử dụng công cụ hiệu quả và xây dựng portfolio tuyển dụng ngành Data.
-3. **Phân tích dữ liệu sáng tạo (Creator Analytics):** Giải mã thuật toán đề xuất, phân tích tỷ lệ nhấp chuột (CTR), độ sâu giữ chân khán giả và tăng trưởng người theo dõi.
+#### 3 Nội Dung Mình Chia Sẻ:
+1. **Hành trình học Data Analyst:** Đúc kết kiến thức thực tế từ Excel, SQL đến Python Pandas và Power BI mà một người học việc gặp phải.
+2. **Quy trình làm Tool & Phần mềm:** Bóc tách cách mình tư duy và xây dựng các công cụ như `winvitals` hay `Device_Changer`.
+3. **Data x Creator:** Xem xét chính các chỉ số kênh YouTube (CTR, Watch Time, Đề xuất thuật toán) như một bài toán phân tích dữ liệu thực thụ.
 
 <p align="center">
   <a href="https://www.youtube.com/@ngphong01">
     <img src="https://img.shields.io/badge/Subscribe_to_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe YouTube" />
   </a>
   <a href="https://www.daophong.id.vn/">
-    <img src="https://img.shields.io/badge/Read_Case_Studies-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Case Studies" />
+    <img src="https://img.shields.io/badge/Read_My_Blog-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Blog" />
   </a>
 </p>
 
@@ -194,5 +194,5 @@ Không chỉ làm sáng tạo nội dung đơn thuần, mình ứng dụng trự
 </p>
 
 <p align="center">
-  <sub>✨ <i>"Dữ liệu là sự thật, sáng tạo là cách kể chuyện." — Kết nối để cùng xây dựng những giải pháp dữ liệu giá trị.</i> ✨</sub>
+  <sub>✨ <i>"Không ngừng học hỏi, không ngừng xây dựng công cụ có ích và chia sẻ giá trị tới cộng đồng."</i> ✨</sub>
 </p>
