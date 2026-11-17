@@ -113,12 +113,12 @@ Dự án phân tích dữ liệu nổi bật nhất trên hồ sơ:
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/ngphong01">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ngphong01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="Phong's GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=ngphong01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="Phong's GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/ngphong01">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ngphong01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ngphong01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
         </a>
       </td>
     </tr>
