@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ngphong01/ngphong01/main/assets/header_banner.svg" alt="PHONG • Data Analyst | Business Intelligence | Tool Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/ngphong01/ngphong01/main/assets/da_banner.svg" alt="PHONG • Data Analyst | Business Intelligence | Tool Developer" width="100%" />
 
   <br/><br/>
 
